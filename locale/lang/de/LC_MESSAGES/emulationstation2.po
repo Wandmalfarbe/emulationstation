@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "UPDATE AVAILABLE"
 msgstr "UPDATE VERFÜGBAR"
@@ -633,7 +633,7 @@ msgid "NO BLUETOOTH DEVICES FOUND"
 msgstr "KEINE BLUETOOTH-GERÄTE GEFUNDEN"
 
 msgid "BLUETOOTH DEVICES HAVE BEEN DELETED."
-msgstr "BLUETOOTH-GERÄTE WURDEN GELÖSCHT"
+msgstr "BLUETOOTH-GERÄTE WURDEN GELÖSCHT."
 
 msgid "FILE BROWSER"
 msgstr "DATEIBROWSER"
@@ -995,10 +995,10 @@ msgid "SCRAPE"
 msgstr "SCRAPEN"
 
 msgid "EDIT PADTOKEY PROFILE"
-msgstr ""
+msgstr "BEARBEITE PADTOKEY-PROFIL"
 
 msgid "CREATE PADTOKEY PROFILE"
-msgstr ""
+msgstr "ERSTELLE PADTOKEY-PROFIL"
 
 msgid "ADVANCED GAME OPTIONS"
 msgstr "ERWEITERTE SPIELE-OPTIONEN"
@@ -1120,7 +1120,7 @@ msgid "Battery"
 msgstr "Batterie"
 
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 msgid "Cpu model"
 msgstr "CPU Modell"
@@ -1349,7 +1349,7 @@ msgid "REBOOT REQUIRED TO APPLY THE NEW CONFIGURATION"
 msgstr "NEUSTART ERFORDERLICH, UM DIE NEUE KONFIGURATION ANZUWENDEN"
 
 msgid "LOG LEVEL"
-msgstr "LOG LEVEL"
+msgstr "LOG-LEVEL"
 
 msgid "CREATE A SUPPORT FILE"
 msgstr "EINE SUPPORT-DATEI ERSTELLEN"
@@ -1358,10 +1358,10 @@ msgid "CREATE A SUPPORT FILE?"
 msgstr "EINE SUPPORT-DATEI ERSTELLEN?"
 
 msgid "SUPPORT FILE CREATED IN SAVES FOLDER"
-msgstr ""
+msgstr "SUPPORT-DATEI IM SAVE-ORDNER ERSTELLT"
 
 msgid "SUPPORT FILE CREATION FAILED"
-msgstr ""
+msgstr "ERSTELLUNG SUPPORT-DATEI FEHLGESCHLAGEN"
 
 msgid "FORMAT A DISK"
 msgstr "FORMATIERE EINEN DATENTRÄGER"
@@ -1370,7 +1370,7 @@ msgid "CLEAN GAMELISTS & REMOVE UNUSED MEDIA"
 msgstr "BEREINIGE SPIELLISTE & LÖSCHE UNBENUTZTE MEDIEN"
 
 msgid "Cleaning"
-msgstr "Räume auf "
+msgstr "Räume auf"
 
 msgid "CLEAR CACHES"
 msgstr "LEERE CACHES"
@@ -1458,22 +1458,24 @@ msgid "OPTIMIZATIONS"
 msgstr "OPTIMIERUNGEN"
 
 msgid "PRELOAD UI ELEMENTS"
-msgstr ""
+msgstr "LADE UI-ELEMENTE VOR"
 
 msgid "Reduce overall menu lag at the cost of storage space"
 msgstr ""
+"Reduziere die allgemeine Menüverzögerung auf Kosten des Speicherplatzes"
 
 msgid "PRELOAD METADATA MEDIA"
-msgstr ""
+msgstr "LADE METADATEN-MEDIEN VOR"
 
 msgid "Reduce gamelist lag at the cost of storage space"
 msgstr ""
+"Reduziere die Verzögerung in Spielelisten auf Kosten des Speicherplatzes"
 
 msgid "THREADED LOADING"
-msgstr "THREADED LOADING"
+msgstr "THREAD-BASIERTES LADEN"
 
 msgid "ASYNC IMAGE LOADING"
-msgstr "ASYNC IMAGE LOADING"
+msgstr "ASYNCHRONES LADEN VON BILDERN"
 
 msgid "OPTIMIZE IMAGES VRAM USE"
 msgstr "BILDER VRAM-NUTZUNG OPTIMIEREN"
@@ -1771,7 +1773,7 @@ msgid "SHOW SAVE STATES IF NOT EMPTY"
 msgstr "SPEICHERSTÄNDE ANZEIGEN, WENN NICHT LEER"
 
 msgid "INCREMENTAL SAVESTATES"
-msgstr ""
+msgstr "INKREMENTELLE SAVE-STATES"
 
 msgid "SHADER SET"
 msgstr "SHADER"
@@ -2071,16 +2073,16 @@ msgid "REALLY RESTART?"
 msgstr "WIRKLICH NEUSTARTEN?"
 
 msgid "SHUTDOWN SYSTEM"
-msgstr "SYSTEM ABSCHALTEN"
+msgstr "SYSTEM AUSSCHALTEN"
 
 msgid "REALLY SHUTDOWN?"
-msgstr "WIRKLICH ABSCHALTEN?"
+msgstr "WIRKLICH AUSSCHALTEN?"
 
 msgid "FAST SHUTDOWN SYSTEM"
-msgstr "SYSTEM SCHNELL ABSCHALTEN"
+msgstr "SYSTEM SCHNELL AUSSCHALTEN"
 
 msgid "REALLY SHUTDOWN WITHOUT SAVING METADATA?"
-msgstr "WIRKLICH ABSCHALTEN OHNE METADATEN ZU SPEICHERN?"
+msgstr "WIRKLICH AUSSCHALTEN OHNE METADATEN ZU SPEICHERN?"
 
 msgid "QUIT EMULATIONSTATION"
 msgstr "EMULATIONSTATION BEENDEN"
@@ -3165,8 +3167,8 @@ msgstr "BILDSCHIRM-LESER DEAKTIVIERT"
 #~ "THE \"RANDOM VIDEO\" SCREENSAVER SHOWS VIDEOS FROM YOUR GAMELIST.\n"
 #~ "IF YOU DON'T HAVE VIDEOS, OR IF NONE OF THEM CAN BE PLAYED AFTER A FEW "
 #~ "ATTEMPTS, IT WILL DEFAULT TO \"BLACK\".\n"
-#~ "MORE OPTIONS IN THE \"UI SETTINGS\" -> \"RANDOM VIDEO SCREENSAVER SETTINGS"
-#~ "\" MENU."
+#~ "MORE OPTIONS IN THE \"UI SETTINGS\" -> \"RANDOM VIDEO SCREENSAVER "
+#~ "SETTINGS\" MENU."
 #~ msgstr ""
 #~ "DER \"ZUFALLSVIDEO\" BILDSCHIRMSCHONER ZEIGT VIDEOS AUS DEINER "
 #~ "SPIELELISTE.\n"
